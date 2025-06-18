@@ -1,5 +1,5 @@
 <?php
-require_once __DIR__ . '/../src/Saludo.php';
+require_once __DIR__ . '/../vendor/autoload.php';
 use PHPUnit\Framework\TestCase;
 use Examen_despliegue\Saludo;
 class SaludoTest extends TestCase
