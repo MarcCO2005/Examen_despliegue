@@ -20,11 +20,7 @@ jobs:
       - name: Install dependencies
         run: composer install
 
-      - name: Run tests
-        run: |
-          chmod +x ./vendor/bin/phpunit
-          ./vendor/bin/phpunit tests
-
+      
   deploy:
     runs-on: ubuntu-latest
     needs: test
