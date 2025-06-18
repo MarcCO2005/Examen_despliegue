@@ -16,9 +16,9 @@ class ComposerStaticInita50aa7a4aac6a4ff483de5f21554c3ee
         array (
             'PhpParser\\' => 10,
         ),
-        'H' => 
+        'E' => 
         array (
-            'HolaMundoMultilenguaje\\' => 23,
+            'Examen_despliegue\\' => 18,
         ),
         'D' => 
         array (
@@ -31,7 +31,7 @@ class ComposerStaticInita50aa7a4aac6a4ff483de5f21554c3ee
         array (
             0 => __DIR__ . '/..' . '/nikic/php-parser/lib/PhpParser',
         ),
-        'HolaMundoMultilenguaje\\' => 
+        'Examen_despliegue\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

@@ -1,4 +1,5 @@
 <?php
+require_once __DIR__ . '/../src/Saludo.php';
 use PHPUnit\Framework\TestCase;
 use Examen_despliegue\Saludo;
 class SaludoTest extends TestCase
