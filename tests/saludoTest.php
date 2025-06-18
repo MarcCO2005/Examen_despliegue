@@ -1,6 +1,6 @@
 <?php
 use PHPUnit\Framework\TestCase;
-use HolaMundoMultilenguaje\Saludo;
+use Examen_despliegue\Saludo;
 class SaludoTest extends TestCase
 {
  public function testGenerarSaludoAleatorio()
